@@ -1,0 +1,7 @@
+{
+  "name": "android8-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
